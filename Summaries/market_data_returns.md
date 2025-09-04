@@ -1,4 +1,4 @@
-# Project 1 — Market Data Loader & Returns Analysis
+# Market Data Loader & Returns Analysis
 
 **Goal:** Build the foundations of quant trading by learning how to load real market data, compute returns, measure volatility, analyze correlations, and study the distribution of asset returns.
 
