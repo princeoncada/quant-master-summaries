@@ -12,5 +12,5 @@ Each summary is designed to be beginner-friendly, detailed, and code-backed, so 
   - Key takeaways
 
 ## Completed Summaries
-- ✅ [Project 1: Market Data Loader & Returns Analysis](Summaries/market_data_returns.md)
-- ✅ [Project 2: Randomness in FX vs Coin Flips](Summaries/randomness_fx_coin.md)
+- ✅ [Market Data Loader & Returns Analysis](Summaries/market_data_returns.md) - [Repo](https://github.com/princeoncada/quant-market-data-analysis)
+- ✅ [Randomness in FX vs Coin Flips](Summaries/randomness_fx_coin.md) - [Repo](https://github.com/princeoncada/quant-randomness-tests)
