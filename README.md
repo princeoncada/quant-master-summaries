@@ -1,2 +1,16 @@
-# quant-master-summaries
-Detailed quant trading study notes. Each project summary explains concepts, math intuition, and Python code, with key takeaways for quick review. Covers foundations like returns, volatility, correlations, randomness, PCA, time series, ML, and trading systems.
+# Quant Master Summaries
+
+This repository contains study notes and summaries for each of my many quant projects.  
+Each summary is designed to be beginner-friendly, detailed, and code-backed, so I (or anyone learning quant finance) can review the concepts anytime.
+
+## Structure
+- `Summaries/` → A collection of markdown files, one per project
+- Each file contains:
+  - Concept explanations
+  - Code snippets
+  - Math intuition
+  - Key takeaways
+
+## Completed Summaries
+- ✅ [Project 1: Market Data Loader & Returns Analysis](Summaries/market_data_returns.md)
+- ✅ [Project 2: Randomness in FX vs Coin Flips](Summaries/randomness_fx_coin.md)
